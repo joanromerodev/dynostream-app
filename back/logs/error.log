@@ -1,0 +1,59 @@
+{"level":"error","message":"ID esta vacio. DB no puede consultar IDs que nunca recibió","service":"user-service","timestamp":"2024-03-07T01:02:16.590Z"}
+{"level":"error","message":"Plan Controller - ID esta vacio. DB no puede consultar IDs que nunca recibió","service":"user-service","timestamp":"2024-03-07T04:06:37.095Z"}
+{"level":"error","message":"Auth Controller - Error: Correo electrónico incorrecto","service":"user-service","timestamp":"2024-03-07T04:08:24.646Z"}
+{"level":"error","message":"Auth Controller - Error: Correo electrónico incorrecto","service":"user-service","timestamp":"2024-03-07T22:27:03.200Z"}
+{"level":"error","message":"Auth Controller - Error: Correo electrónico incorrecto","service":"user-service","timestamp":"2024-03-07T22:28:12.739Z"}
+{"level":"error","message":"Auth Controller - Error: Correo electrónico incorrecto","service":"user-service","timestamp":"2024-03-07T22:29:18.548Z"}
+{"level":"error","message":"Auth Controller - Error: Correo electrónico incorrecto","service":"user-service","timestamp":"2024-03-07T22:29:24.373Z"}
+{"level":"error","message":"Auth Controller - Error: Correo electrónico incorrecto","service":"user-service","timestamp":"2024-03-07T22:29:35.686Z"}
+{"level":"error","message":"Auth Controller - Error: Correo electrónico incorrecto","service":"user-service","timestamp":"2024-03-07T22:29:52.730Z"}
+{"level":"error","message":"Auth Controller - Error: Correo electrónico incorrecto","service":"user-service","timestamp":"2024-03-07T22:30:19.086Z"}
+{"level":"error","message":"Auth Controller - Error: Correo electrónico incorrecto","service":"user-service","timestamp":"2024-03-07T22:36:07.905Z"}
+{"level":"error","message":"Auth Controller - Error: Correo electrónico incorrecto","service":"user-service","timestamp":"2024-03-07T22:39:05.770Z"}
+{"level":"error","message":"Auth Controller - Error: Contraseña incorrecta","service":"user-service","timestamp":"2024-03-07T22:41:51.867Z"}
+{"level":"error","message":"Auth Controller - Error: Contraseña incorrecta","service":"user-service","timestamp":"2024-03-07T22:42:37.745Z"}
+{"level":"error","message":"Auth Controller - Error: Contraseña incorrecta","service":"user-service","timestamp":"2024-03-07T22:49:15.563Z"}
+{"level":"error","message":"Auth Controller - Error: Contraseña incorrecta","service":"user-service","timestamp":"2024-03-07T22:49:18.832Z"}
+{"level":"error","message":"Auth Controller - Error: Contraseña incorrecta","service":"user-service","timestamp":"2024-03-07T23:25:30.966Z"}
+{"level":"error","message":"Auth Controller - Error: Contraseña incorrecta","service":"user-service","timestamp":"2024-03-07T23:36:21.278Z"}
+{"level":"error","message":"Auth Middleware - JsonWebTokenError: jwt malformed","service":"user-service","timestamp":"2024-03-08T00:54:52.202Z"}
+{"level":"error","message":"Auth Middleware - JsonWebTokenError: jwt malformed","service":"user-service","timestamp":"2024-03-08T00:54:52.205Z"}
+{"level":"error","message":"Auth Middleware - JsonWebTokenError: jwt malformed","service":"user-service","timestamp":"2024-03-08T01:01:55.967Z"}
+{"level":"error","message":"Auth Middleware - JsonWebTokenError: jwt malformed","service":"user-service","timestamp":"2024-03-08T01:01:55.972Z"}
+{"level":"error","message":"Auth Middleware - JsonWebTokenError: jwt malformed","service":"user-service","timestamp":"2024-03-08T01:03:12.306Z"}
+{"level":"error","message":"Auth Middleware - JsonWebTokenError: jwt malformed","service":"user-service","timestamp":"2024-03-08T01:03:17.890Z"}
+{"level":"error","message":"Auth Middleware - JsonWebTokenError: jwt malformed","service":"user-service","timestamp":"2024-03-08T01:07:21.456Z"}
+{"level":"error","message":"Auth Middleware - JsonWebTokenError: jwt malformed","service":"user-service","timestamp":"2024-03-08T01:07:21.463Z"}
+{"level":"error","message":"Auth Middleware - JsonWebTokenError: jwt malformed","service":"user-service","timestamp":"2024-03-08T01:09:36.501Z"}
+{"level":"error","message":"Auth Middleware - JsonWebTokenError: jwt malformed","service":"user-service","timestamp":"2024-03-08T01:09:36.503Z"}
+{"level":"error","message":"Plan Controller - ID esta vacio. DB no puede consultar IDs que nunca recibió","service":"user-service","timestamp":"2024-03-08T02:05:53.343Z"}
+{"level":"error","message":"Content Controller - ReferenceError: contents is not defined","service":"user-service","timestamp":"2024-03-08T02:49:05.564Z"}
+{"level":"error","message":"Content Controller - Lista de contenidos esta vacia o incorrecta. DB no puede consultar IDs que nunca recibió","service":"user-service","timestamp":"2024-03-08T02:50:58.029Z"}
+{"level":"error","message":"Auth Controller - Error: Contraseña incorrecta","service":"user-service","timestamp":"2024-03-08T02:52:42.391Z"}
+{"level":"error","message":"Auth Controller - Error: Contraseña incorrecta","service":"user-service","timestamp":"2024-03-08T02:52:57.451Z"}
+{"level":"error","message":"Auth Controller - Error: Contraseña incorrecta","service":"user-service","timestamp":"2024-03-08T02:53:17.236Z"}
+{"level":"error","message":"Auth Controller - Error: Contraseña incorrecta","service":"user-service","timestamp":"2024-03-08T02:53:30.674Z"}
+{"level":"error","message":"Auth Controller - Error: Contraseña incorrecta","service":"user-service","timestamp":"2024-03-08T02:53:32.978Z"}
+{"level":"error","message":"Auth Middleware - JsonWebTokenError: jwt malformed","service":"user-service","timestamp":"2024-03-08T02:57:57.186Z"}
+{"level":"error","message":"Auth Middleware - JsonWebTokenError: jwt malformed","service":"user-service","timestamp":"2024-03-08T02:57:57.215Z"}
+{"level":"error","message":"Content Controller - Lista de contenidos esta vacia o incorrecta. DB no puede consultar IDs que nunca recibió","service":"user-service","timestamp":"2024-03-08T21:42:00.555Z"}
+{"level":"error","message":"Content Controller - Lista de contenidos esta vacia o incorrecta. DB no puede consultar IDs que nunca recibió","service":"user-service","timestamp":"2024-03-08T21:44:53.725Z"}
+{"level":"error","message":"Content Controller - Lista de contenidos esta vacia o incorrecta. DB no puede consultar IDs que nunca recibió","service":"user-service","timestamp":"2024-03-08T21:44:55.993Z"}
+{"level":"error","message":"Content Controller - CastError: Cast to ObjectId failed for value \"65e8d7a866a5b51c9asdad\" (type string) at path \"_id\" for model \"content\"","service":"user-service","timestamp":"2024-03-08T21:49:09.957Z"}
+{"level":"error","message":"Content Controller - CastError: Cast to ObjectId failed for value \"65e8d7a866a5b51c9asdad\" (type string) at path \"_id\" for model \"content\"","service":"user-service","timestamp":"2024-03-08T21:49:09.963Z"}
+{"level":"error","message":"Content Controller - CastError: Cast to ObjectId failed for value \"65e8d7a866a5b51c9asdad\" (type string) at path \"_id\" for model \"content\"","service":"user-service","timestamp":"2024-03-08T21:53:10.897Z"}
+{"level":"error","message":"Content Controller - CastError: Cast to ObjectId failed for value \"65e8d7a866a5b51c9asdad\" (type string) at path \"_id\" for model \"content\"","service":"user-service","timestamp":"2024-03-08T21:53:10.900Z"}
+{"level":"error","message":"Content Controller - CastError: Cast to ObjectId failed for value \"65e8d7a866a5b51c9asdad\" (type string) at path \"_id\" for model \"content\"","service":"user-service","timestamp":"2024-03-08T21:53:44.892Z"}
+{"level":"error","message":"Content Controller - CastError: Cast to ObjectId failed for value \"65e8d7a866a5b51c9asdad\" (type string) at path \"_id\" for model \"content\"","service":"user-service","timestamp":"2024-03-08T21:53:47.096Z"}
+{"level":"error","message":"Content Controller - CastError: Cast to ObjectId failed for value \"65e8d7a866a5b51c9asdad\" (type string) at path \"_id\" for model \"content\"","service":"user-service","timestamp":"2024-03-08T21:53:47.100Z"}
+{"level":"error","message":"Content Controller - CastError: Cast to ObjectId failed for value \"65e8d7a866a5b51c9asdad\" (type string) at path \"_id\" for model \"content\"","service":"user-service","timestamp":"2024-03-08T21:54:22.893Z"}
+{"level":"error","message":"Content Controller - CastError: Cast to ObjectId failed for value \"65e8d7a866a5b51c9asdad\" (type string) at path \"_id\" for model \"content\"","service":"user-service","timestamp":"2024-03-08T21:54:35.510Z"}
+{"level":"error","message":"Content Controller - CastError: Cast to ObjectId failed for value \"asdads\" (type string) at path \"_id\" for model \"content\"","service":"user-service","timestamp":"2024-03-08T21:54:38.308Z"}
+{"level":"error","message":"Content Controller - CastError: Cast to ObjectId failed for value \"asdads\" (type string) at path \"_id\" for model \"content\"","service":"user-service","timestamp":"2024-03-08T21:54:38.311Z"}
+{"level":"error","message":"Content Controller - CastError: Cast to ObjectId failed for value \"asdads\" (type string) at path \"_id\" for model \"content\"","service":"user-service","timestamp":"2024-03-08T21:56:59.649Z"}
+{"level":"error","message":"Content Controller - CastError: Cast to ObjectId failed for value \"asdads\" (type string) at path \"_id\" for model \"content\"","service":"user-service","timestamp":"2024-03-08T21:57:21.544Z"}
+{"level":"error","message":"Content Controller - CastError: Cast to ObjectId failed for value \"asdads\" (type string) at path \"_id\" for model \"content\"","service":"user-service","timestamp":"2024-03-08T21:57:21.552Z"}
+{"level":"error","message":"Content Controller - CastError: Cast to ObjectId failed for value \"asdasd\" (type string) at path \"_id\" for model \"content\"","service":"user-service","timestamp":"2024-03-08T22:39:17.807Z"}
+{"level":"error","message":"Content Controller - CastError: Cast to ObjectId failed for value \"asdasd\" (type string) at path \"_id\" for model \"content\"","service":"user-service","timestamp":"2024-03-08T22:39:17.809Z"}
+{"level":"error","message":"Category Controller - Lista categorias esta vacia o incorrecta. DB no puede consultar IDs que nunca recibió","service":"user-service","timestamp":"2024-03-08T23:01:55.998Z"}
+{"level":"error","message":"Auth Controller - Error: Contraseña incorrecta","service":"user-service","timestamp":"2024-10-14T03:57:04.625Z"}
